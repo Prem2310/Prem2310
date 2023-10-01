@@ -25,3 +25,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prem2310&" alt="prem2310" /></p>
 
+[![An image of @prem2310's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/prem2310)](https://holopin.io/@prem2310)
