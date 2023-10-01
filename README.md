@@ -13,7 +13,7 @@
 <a href="https://codeforces.com/profile/prem_23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="prem_23" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/prem2310" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="prem2310" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/@patelprem7736" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@patelprem7736" height="30" width="40" /></a>
-<a href="https://discord.gg/prem007#5701" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="prem007#5701" height="30" width="40" /></a>
+<a href="https://discord.gg/#5701" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="prem007#5701" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
